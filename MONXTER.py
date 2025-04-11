@@ -1,0 +1,2 @@
+from MONXTER import MONXTER
+MONXTER()
